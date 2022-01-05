@@ -1,0 +1,21 @@
+ticker,currency,financialCurrency,fullExchangeName,longName,shortName,exchangeTimezoneName,marketCap,price
+688333.SS,CNY,CNY,Shanghai,"Xi'an Bright Laser Technologies Co.,Ltd.",XI'AN BRIGHT LASER TECHNOLOGIES,Asia/Shanghai,15754284032,195.0
+DDD,USD,USD,NYSE,3D Systems Corporation,3D Systems Corporation,America/New_York,2679446272,20.86
+DM,USD,USD,NYSE,"Desktop Metal, Inc.","Desktop Metal, Inc.",America/New_York,1502197632,4.83
+SSYS,USD,USD,NasdaqGS,Stratasys Ltd.,"Stratasys, Ltd.",America/New_York,1542402432,23.56
+VJET,USD,EUR,NasdaqCM,voxeljet AG,voxeljet AG,America/New_York,46206944,6.5759
+NNDM,USD,USD,NasdaqCM,Nano Dimension Ltd.,Nano Dimension Ltd.,America/New_York,1038780480,4.05
+ONVO,USD,USD,NasdaqCM,"Organovo Holdings, Inc.","Organovo Holdings, Inc.",America/New_York,33428928,3.84
+SHPW,USD,USD,NYSE,"Shapeways Holdings, Inc.","Shapeways Holdings, Inc.",America/New_York,153099904,3.17
+MKFG,USD,USD,NYSE,Markforged Holding Corporation,Markforged Holding Corporation,America/New_York,1068643328,5.75
+AM3D.DE,EUR,EUR,XETRA,SLM Solutions Group AG,SLM SOLUTIONS GRP AG,Europe/Berlin,372781216,17.56
+PRLB,USD,USD,NYSE,"Proto Labs, Inc.","Proto Labs, Inc.",America/New_York,1455351424,52.75
+MTLS,USD,EUR,NasdaqGS,Materialise NV,Materialise NV,America/New_York,1300005760,22.12
+VLD,USD,USD,NYSE,"Velo3D, Inc.","Velo3D, Inc.",America/New_York,1375561728,7.51
+MSVT.TA,ILA,USD,Tel Aviv,Massivit 3D Printing Technologies Ltd,MASSIVIT,Asia/Jerusalem,37928087552,1759.0
+AAPL,USD,USD,NasdaqGS,Apple Inc.,Apple Inc.,America/New_York,2907213922304,177.2
+TSLA,USD,USD,NasdaqGS,"Tesla, Inc.","Tesla, Inc.",America/New_York,1129987440640,1125.1941
+1211.HK,HKD,CNY,HKSE,BYD Company Limited,BYD COMPANY,Asia/Hong_Kong,727785013248,250.0
+TCEHY,USD,CNY,Other OTC,Tencent Holdings Limited,TENCENT HOLDINGS LIMITED,America/New_York,536831262720,55.56
+GE,USD,USD,NYSE,General Electric Company,General Electric Company,America/New_York,110303338496,100.4456
+SIE.DE,EUR,EUR,XETRA,Siemens Aktiengesellschaft,SIEMENS AG,Europe/Berlin,126740004864,157.96
