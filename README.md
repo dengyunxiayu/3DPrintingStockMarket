@@ -3,11 +3,11 @@
 
 This report analyzed top 3D printing companies with 3D printing as their main business to get a future vision of the 3D printing industry. The top 3D printing companies include:
 
-## • 3D Systems Corporation (DDD)
-## •	Xi'an bright laser technologies (688333.SS)
-## •	Stratasys, Ltd. (SSYS)
-•	Desktop Metal, Inc. (DM)
-•	Proto Labs, Inc. (PRLB)
+- 3D Systems Corporation (DDD)
+- Xi'an bright laser technologies (688333.SS)
+-	Stratasys, Ltd. (SSYS)
+-	Desktop Metal, Inc. (DM)
+-	Proto Labs, Inc. (PRLB)
 •	Velo3D, Inc. (VLD)
 •	Materialise NV (MTLS)
 •	Markforged Holding Corporation (MKFG)
