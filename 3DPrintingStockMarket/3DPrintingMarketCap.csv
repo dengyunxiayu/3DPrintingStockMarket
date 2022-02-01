@@ -1,0 +1,21 @@
+ticker,currency,financialCurrency,fullExchangeName,longName,shortName,exchangeTimezoneName,marketCap,price
+688333.SS,CNY,CNY,Shanghai,"Xi'an Bright Laser Technologies Co.,Ltd.",XI'AN BRIGHT LASER TECHNOLOGIES,Asia/Shanghai,12910434304,159.8
+DDD,USD,USD,NYSE,3D Systems Corporation,3D Systems Corporation,America/New_York,2059037568,16.03
+DM,USD,USD,NYSE,"Desktop Metal, Inc.","Desktop Metal, Inc.",America/New_York,1091659136,3.51
+SSYS,USD,USD,NasdaqGS,Stratasys Ltd.,"Stratasys, Ltd.",America/New_York,1379389696,21.07
+VJET,USD,EUR,NasdaqCM,voxeljet AG,voxeljet AG,America/New_York,33376872,4.75
+NNDM,USD,USD,NasdaqCM,Nano Dimension Ltd.,Nano Dimension Ltd.,America/New_York,831024320,3.24
+ONVO,USD,USD,NasdaqCM,"Organovo Holdings, Inc.","Organovo Holdings, Inc.",America/New_York,23852934,2.74
+SHPW,USD,USD,NYSE,"Shapeways Holdings, Inc.","Shapeways Holdings, Inc.",America/New_York,145855424,3.02
+MKFG,USD,USD,NYSE,Markforged Holding Corporation,Markforged Holding Corporation,America/New_York,786149760,4.23
+AM3D.DE,EUR,EUR,XETRA,SLM Solutions Group AG,SLM SOLUTIONS GRP AG,Europe/Berlin,278949056,13.14
+PRLB,USD,USD,NYSE,"Proto Labs, Inc.","Proto Labs, Inc.",America/New_York,1285123584,46.58
+MTLS,USD,EUR,NasdaqGS,Materialise NV,Materialise NV,America/New_York,1056107648,17.97
+VLD,USD,USD,NYSE,"Velo3D, Inc.","Velo3D, Inc.",America/New_York,1029381632,5.62
+MSVT.TA,ILA,USD,Tel Aviv,Massivit 3D Printing Technologies Ltd,MASSIVIT,Asia/Jerusalem,39640219648,1835.0
+AAPL,USD,USD,NasdaqGS,Apple Inc.,Apple Inc.,America/New_York,2600763129856,159.22
+TSLA,USD,USD,NasdaqGS,"Tesla, Inc.","Tesla, Inc.",America/New_York,832631930880,829.1
+1211.HK,HKD,CNY,HKSE,BYD Company Limited,BYD COMPANY,Asia/Hong_Kong,639868600320,219.8
+TCEHY,USD,CNY,Other OTC,Tencent Holdings Limited,TENCENT HOLDINGS LIMITED,America/New_York,571096629248,59.39
+GE,USD,USD,NYSE,General Electric Company,General Electric Company,America/New_York,98722791424,89.9
+SIE.DE,EUR,EUR,XETRA,Siemens Aktiengesellschaft,SIEMENS AG,Europe/Berlin,111061975040,138.42
